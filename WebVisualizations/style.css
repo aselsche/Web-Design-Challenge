@@ -1,0 +1,50 @@
+/* Giving the body the specified background color, adding font sizes for the h1 and h3 elements we'll be using */
+body {
+  background: #f1f1f1;
+}
+
+p {
+  padding-left: 20px;
+}
+h1 {
+  padding: 16px;
+  font-size: 30px;
+}
+
+.glossy-text {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+h3 {
+  font-size: 30px;
+}
+.navbar-light .navbar-brand {
+  color: rgba(139, 19, 19, 0.9);
+  font-size: 40px;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+
+.table{
+  margin: 20px 0;
+}
+.box {
+  padding:25px;
+}
+
+text {
+  text-align: center;
+}
+
+footer{ 
+  min-height:50px; 
+  /* background: white;  */
+  padding-top: 20px;
+  padding-right: 50px;
+  text-align: right;
+}
