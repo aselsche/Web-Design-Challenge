@@ -1,6 +1,6 @@
-# LATITUDEVS.X
+# LATITUDEVS.X -- Web Design Homework - Web Visualization Dashboard 
 
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+ The website is available in my GitHub pages. 
 
 ## Background
 
