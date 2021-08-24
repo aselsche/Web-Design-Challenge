@@ -5,14 +5,22 @@ body {
 
 p {
   padding-left: 20px;
+  padding-right: 0px;
 }
 h1 {
   padding: 16px;
-  font-size: 30px;
+  padding-left: 10px;
+  font-size: 26px;
+}
+.w-50{
+  padding-right: 20px;
+  margin-right: 0px;
+
 }
 
 .glossy-text {
-  font-size: 72px;
+  font-size: 75px;
+  padding-left: 50px;
   background: -webkit-linear-gradient(#eee, #333);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -21,8 +29,16 @@ h1 {
 h3 {
   font-size: 30px;
 }
-.navbar-light .navbar-brand {
-  color: rgba(139, 19, 19, 0.9);
+
+.navbar-nav .nav-link {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-right: 60px;
+  font-size: 20px;
+  font-family:verdana
+}
+
+.navbar-dark .navbar-brand {
   font-size: 40px;
 }
 
@@ -30,9 +46,6 @@ h3 {
   margin-bottom: 30px;
 }
 
-.table{
-  margin: 20px 0;
-}
 .box {
   padding:25px;
 }
@@ -43,8 +56,13 @@ text {
 
 footer{ 
   min-height:50px; 
-  /* background: white;  */
   padding-top: 20px;
   padding-right: 50px;
-  text-align: right;
 }
+.p-3 {
+  
+    color: navy;
+    text-indent: 25px;
+    text-transform: uppercase;
+    font-size: 12px;
+  }
