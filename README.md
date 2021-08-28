@@ -1,6 +1,6 @@
 # LATITUDEVS.X -- Web Design Homework - Web Visualization Dashboard 
 
- The website is available in my [GitHub page](https://aselsche.github.io/Web-Design-Challenge/index.html). 
+ The website is available on my [GitHub page](https://aselsche.github.io/Web-Design-Challenge/index.html). 
 
 ## Background
 
